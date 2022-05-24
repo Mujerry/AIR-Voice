@@ -11,6 +11,6 @@ Please follow these rules to add your sentences
 - All sentences sholud be placed in text files (one sentence per line).
 ### For Luganda sentences
 - Place the text files in the Luganda folder, and submit a pull request.
-### For Swahili
+### For Swahili sentences
 - All sentences that belong to a given license should be placed in a given text file then the text file placed in the folder with the name of that license
 - Submit a pull request
