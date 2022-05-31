@@ -1,5 +1,5 @@
 Sizoni etandise era tutandika okusimba wiiki ejja.																									
-Kikolwa kirungi okukaliza kasooli mu musana omungi ennyo ng'ogezaako okutangira ebiwuka?			0.2878																						
+Kikolwa kirungi okukaliza kasooli mu musana omungi ennyo ng'ogezaako okutangira ebiwuka?																	
 Kika kya kigimusa ki ekirungi okukozesa ku kusimba kasooli?																									
 Ebiseere ebimu ennyaanya zoonooneka oluvannyuma lw'ennaku bbiri nga zikunguddwa.																									
 Omuzira gukosa gutya muwogo?																									
@@ -49,7 +49,7 @@ Nkungudde enkota z'amatooke eziweza kkiro ezisoba mu asatu.
 Okukaza ensigo kya mugaso ki eri abalimi?																									
 Ddagala ki ery'amaanyi erikozesebwa ku kufuuyira akasaanyi ka fall armyworm ku kasooli.																									
 Abalimi b'obutunda basobola okubikka ettaka mu biseera by'omusana.																									
-Gezaako nnyo okulaba ngíebirime byo byonna bya kigero kyíekimu bwoba onoonya akatale k'ebweeru.																									
+Gezaako nnyo okulaba ng‚Äôebirime byo byonna bya kigero ky‚Äôekimu bwoba onoonya akatale k'ebweeru.																									
 Ebigimusa bijja kuwa ebitooke ebiriisa okumala emyezi munaana.																									
 Fuuyira ekikoola okuli amabala ga langi ya kyenvu n'eddagala lya Dithane M-ana mu ttaano.																									
 Butera kuzirumba nga zitandise okumulisa.																									
@@ -90,7 +90,7 @@ Wa gye nnyinza kusanga ensgo?
 Bubonero ki obulaga ettaka ebbi?																									
 Gavumenti eyinza okuwa abalimi muwogo agumira embeera?																									
 Ekiwuka kya mugaso ki eri ekimera?																									
-Omuntu alina okusooka okwebuuza oba ddala ekintu kyíoteekamu ssente okulima kirina akatale.																									
+Omuntu alina okusooka okwebuuza oba ddala ekintu ky‚Äôoteekamu ssente okulima kirina akatale.																									
 Kika kya ttaka ki ekirungi okusimbako kasooli w'okuliibwa abantu?																									
 Okuwa amabanga amatuufu kikendeeza ku bulwadde bw'okugengewala.																									
 Waliwo okusaanyaawo ebibira okw'amaanyi olw'obwetaavu bw'ebijanjaalo ebya LULANDA.																									
@@ -945,7 +945,7 @@ Amazzi okubeera mu ttaka n'okuyingiramu kyongera ku bugimu bw'ettaka.
 Kiki ekiviirako okukaawa mu buwunga bwa muwogo?																									
 Ebijanjaalo ebiterekeddwa biyinza kutangirwa bitya obulungi okuva eri kawuukuumi?																									
 Abalimisa basobola okuwa abalimi amagezi ku bigimusa bye balina okugula.																									
-Abalunzi basaana okumanyiiza okuliisa ente zaabwe omuddo omukalu kuba eno yíembeera gye tulina okutambulirako.																									
+Abalunzi basaana okumanyiiza okuliisa ente zaabwe omuddo omukalu kuba eno y‚Äôembeera gye tulina okutambulirako.																									
 Kika kya kasooli ki ekisinga obulungi okusimbibwa mu sizoni eyookubiri?																									
 Akatale ka bbogoya weekali obudde bwonna.																									
 Bulwadde ki obuleetera ebikoola bya kasooli okukala nga tannakula?																									
@@ -2039,7 +2039,7 @@ Tulina ebika by'ensigo ebisobola okukulira mu musana omungi?
 Akatale ka muwogo akasinga akali wa leero?																									
 Weetegereze nnyo era okebere ku bisolo nga bisaze.																									
 Embuzi ento zeetaaga kuliisa zisobole okufuna amaanyi agawera okukula.																									
-Tukyeyongerayo níemboozi yaffe eyíembaata.																									
+Tukyeyongerayo n‚Äôemboozi yaffe ey‚Äôembaata.																									
 Ebbugumu lirina bulabe ki ku bijanjaalo ebiterekeddwa?																									
 Ebimera ebissaako empeke biteeka ekirungo kya nitulojeeni mu ttaka era biviirako nnyo okubala.																									
 Ebbeeyi y'embiga yeeyongera enva endiirwa endala bwe zibula.																									
@@ -5241,7 +5241,7 @@ Ekitooke kirina okubeera n'endagala musanvu zokka.
 Kika kya nsigo za kasooli ki ekirungi okusimba mu bitundu ebikalu?																									
 Omusomo gw'okulima n'okulunda gwengedde.																									
 Osobola okufuna ensawo ana ku kinaana ez'emmwanyi okuva mu yiika.																									
-Bw'oligenda mu byalo lw’olimanya nti ddala abantu bakyakozesa eddagala ly'ekinnansi bangi.																									
+Bw'oligenda mu byalo lw√ïolimanya nti ddala abantu bakyakozesa eddagala ly'ekinnansi bangi.																									
 Nsobola kutunda wa NAROCAST emu mu lulima luno olusooka okuva eri abalimi era akasawo akamu ka ssente mmeka?																									
 Mbu era ne bw'oba oyagala ebijanjaalo byo ebikalu bijje mangu oteekamu ekisula.																									
 Okufuna obuwunga bwa muwogo olina kuba nga omwanise akabanga n'avaamu amazzi gonna agalimu.																									
@@ -5445,47 +5445,47 @@ Embuzi bisolo ebifuna obulungi kubanga zizaala emirundi ebiri omwaka.
 Agenda kusomesa ngeri okwongera omuwendo ku mmwaanyi okutandikira mu musiri.																									
 "Ekika kya nase minisitule y'ebyobulimi, obulunzi n'obuvubi yabikkiriza okutandika okulimibwa."																									
 Ennyanya kye kimu ku birime ebisobola okubbulula abalimi amangu bwe batyo ne bafuna ssente.																									
-Ggwe ayagala okulima ennyaanya weetaaga okufuna ensigo ennungi wamu níokutegeka obulungi ennimiro.																									
-Ono mulimi wa nnyaanya era nga kati alina yiika bbiri níekitundu.																									
+Ggwe ayagala okulima ennyaanya weetaaga okufuna ensigo ennungi wamu n‚Äôokutegeka obulungi ennimiro.																									
+Ono mulimi wa nnyaanya era nga kati alina yiika bbiri n‚Äôekitundu.																									
 Awadde abalimi amagezi nti basobola okulima ebirime ebikula amangu ne basobola okufuna ssente.																									
-"Lowooza ku kulima ebirime ebiwangaazi gamba nga emmwaanyi, vanilla níebirala."																									
+"Lowooza ku kulima ebirime ebiwangaazi gamba nga emmwaanyi, vanilla n‚Äôebirala."																									
 Ono awadde abalimi amagezi nti ssinga baba baakulima nnyaanya balina okwegendereza we bagula ensigo.																									
-Okuteekateeka obulungi ennimiro ate níokubala ddi ennyaanya lwe ziba zigenda okwengera.																									
+Okuteekateeka obulungi ennimiro ate n‚Äôokubala ddi ennyaanya lwe ziba zigenda okwengera.																									
 Lima ennyaanya oyingize ssente kiralu.																									
-Okugula ennyana níozikuza y'emu ku bizinensi ekola ssente ssinga otwala obudde okugiyiga.																									
-"Omulunzi we nte, endiga níebituntu ebirala."																									
-"Mu bitundu omuli abalunzi bíente abangi, ennume tezirina makulu era bangi bazireka mu ttale."																									
-"Olwíokuba ennume tebazimalirako nnyo biseera , mu butale zitundibwa emitwaalo anna."																									
+Okugula ennyana n‚Äôozikuza y'emu ku bizinensi ekola ssente ssinga otwala obudde okugiyiga.																									
+"Omulunzi we nte, endiga n‚Äôebituntu ebirala."																									
+"Mu bitundu omuli abalunzi b‚Äôente abangi, ennume tezirina makulu era bangi bazireka mu ttale."																									
+"Olw‚Äôokuba ennume tebazimalirako nnyo biseera , mu butale zitundibwa emitwaalo anna."																									
 Ente zinywa amazzi mangi.																									
-Natandika níokugula ente taanu ento ku mwezi gumu ne nzitwala ku ffaamu yange gye nzirundira.																									
-Ente nzitunda ku mwaka gumu níekitundu okutandikira ku kakadde kamu níekitundu níokudda waggulu.																									
+Natandika n‚Äôokugula ente taanu ento ku mwezi gumu ne nzitwala ku ffaamu yange gye nzirundira.																									
+Ente nzitunda ku mwaka gumu n‚Äôekitundu okutandikira ku kakadde kamu n‚Äôekitundu n‚Äôokudda waggulu.																									
 "Mu kiseera kino, ente nzeesalira."																									
-Ennyana†aziraawa†wabula ngíasooka kuzirunda omwezi omulala oba ebiri nga tezinnalaayibwa.																									
+Ennyana¬†aziraawa¬†wabula ng‚Äôasooka kuzirunda omwezi omulala oba ebiri nga tezinnalaayibwa.																									
 Ssinga ennyana aziraawa nga zaakatuuka zisobola okukona ne zitagejja bulungi.																									
 Guno gwafuuka mulimu nga buli mwezi agulayo ennyana ataanu.																									
 Agamba nti asobola okutunda ente ezisoba mu ataanu omwezi.																									
 Ku mwaka nga gumu ente bazitwalira ku kakadde nga kamu.																									
-Ente ezisinga azisala níatunda nnyama kuba alina omudaala e Muyenga.																									
-Ente esobola okuzitowa okutuuka mu kkiro bibbiri níagifunamu obukadde obusoba mu bubiri.																									
+Ente ezisinga azisala n‚Äôatunda nnyama kuba alina omudaala e Muyenga.																									
+Ente esobola okuzitowa okutuuka mu kkiro bibbiri n‚Äôagifunamu obukadde obusoba mu bubiri.																									
 Okulima omuddo oguliisibwa ensolo ezirundibwa emu ku bizinensi ezifuna ekiralu.																									
-Ggwe alina ettaka ngíonoonya kyíosoboola okulima nga tekikwetaagisa mirimu mingi wekwate okulima omuddo.																									
-Mu kiseera kino abalunzi beeyongedde mu bibuga ekitaddewo okuvuganya okwamaanyi ku muddo níokuliisa ensolo.																									
+Ggwe alina ettaka ng‚Äôonoonya ky‚Äôosoboola okulima nga tekikwetaagisa mirimu mingi wekwate okulima omuddo.																									
+Mu kiseera kino abalunzi beeyongedde mu bibuga ekitaddewo okuvuganya okwamaanyi ku muddo n‚Äôokuliisa ensolo.																									
 Yasalawo okulima omuddo okugwongerako omuwendo.																									
 Ebimu kubika bya amalagala ebirimibwa ebisolo.																									
-Okutunda ensigo kwossa okusomesa abalunzi níabalimi ku kyebeetaaga okulima omuddo.																									
+Okutunda ensigo kwossa okusomesa abalunzi n‚Äôabalimi ku kyebeetaaga okulima omuddo.																									
 Na atali mulunzi asobola okulima omuddo n'aguza abalunzi nga akikola nga bizinensi.																									
 Osobola okulima ebisagazi n'ofunamu.																									
-Wano ninawo ebika byíomuddo nga kumi na munana.																									
-Omuddo ngukolamu ssente nga ngutunda níensigo†zaagwo.																									
-Era nga tusomesa abalimi níabalunzi okutandika ssamba zíomuddo.																									
+Wano ninawo ebika by‚Äôomuddo nga kumi na munana.																									
+Omuddo ngukolamu ssente nga ngutunda n‚Äôensigo¬†zaagwo.																									
+Era nga tusomesa abalimi n‚Äôabalunzi okutandika ssamba z‚Äôomuddo.																									
 Assa essira ku kulima lumonde ekika kya Naspot.																									
-New Kawogo okuva mu Uganda ne Wagaborige okuva e Kenya ngíono atemwako malagala.																									
+New Kawogo okuva mu Uganda ne Wagaborige okuva e Kenya ng‚Äôono atemwako malagala.																									
 Wagaborige atuuka ku myaka etaano wabula yeetaaga okugimusa.																									
-New Kawogo osobola okukungulako ttani zíamalagala taano buli mwaka.																									
+New Kawogo osobola okukungulako ttani z‚Äôamalagala taano buli mwaka.																									
 Wagaborige osobola okukungulako ttani musanvu nga buli ttani osobola okugitunda ku mitwaalo ataano.																									
 Sayiregi buli kkiro ya bitaano kyokka nga muno agattamu bulandi wa kasooli.																									
 Agamba nti yasalawo okulima omuddo.																									
-Yagula ensigo zíobutunda níagikwasa abakyala bíakulira mu kibiina okugisimba beegobeko obwavu.																									
+Yagula ensigo z‚Äôobutunda n‚Äôagikwasa abakyala b‚Äôakulira mu kibiina okugisimba beegobeko obwavu.																									
 Buno yabusimba ku yiika bbiri ku kyalo Nakibanga mu Mityana.																									
 obutunda nagula bwa sillingi lukuumi e Mbarara.																									
 Kyokka bwe waayita wiiki bbiri ensigo nagisanga we nagireka.																									
@@ -5496,43 +5496,43 @@ Nnina ekibira mwe nasala emiti gya kalittunsi gye nakozesa okufuna ebikondo.
 Nga waggulu nateekayo akatimba akabuwanirira nga bukula.																									
 Wabula amabanga agalekeddwamu mwe nsimba ennyaanya.																									
 Nunda embuzi ana nga nzikuumira mu kiyumba.																									
-"Embuzi nzigabirira ebikoola byíemituba, ffene níebirala."																									
+"Embuzi nzigabirira ebikoola by‚Äôemituba, ffene n‚Äôebirala."																									
 Luno embuzi we ziriira ateekamu amazzi embuzi ge zinywako naddala mu musana.																									
 Alina olusuku nga luwagirwa nnyo obusa obuva mu mbuzi.																									
 Obutunda buliko emirimu omuli okubulandiza ku buti buleme okugwa.																									
-Okubusalira buleme kusaakaatira níokunuuna ebigimusa mu ttaka.																									
+Okubusalira buleme kusaakaatira n‚Äôokunuuna ebigimusa mu ttaka.																									
 Engeri gye yatandika okusimba kaamulali.																									
 Obulimi nga bizinensi.																									
-Okuvuganya oweereza amannya go oba omulimi níomulunzi gwíomanyi ku kitundu kyo.																									
-Wandiika amannya gíomulimi.																									
-Mulimi wa kaamulali ngíamulima okwetooloola awaka we wamu ne mu biyumba.																									
+Okuvuganya oweereza amannya go oba omulimi n‚Äôomulunzi gw‚Äôomanyi ku kitundu kyo.																									
+Wandiika amannya g‚Äôomulimi.																									
+Mulimi wa kaamulali ng‚Äôamulima okwetooloola awaka we wamu ne mu biyumba.																									
 "Ku kaamulali agattako okulima ennyaanya, obutungulu."																									
-Bino byonna abirimira mu luggya lwe era nga bye bimufudde kyíali.																									
-Nafuna omulimu ku ffaamu yíomugagga nga nze ngikulira.																									
-Bwe nali nkola emirimu gino nalina ekirooto ekyíokukola emirimu egyange naddala okulima.																									
-Nakola†okunoonyereza kungi ku kirime kye nali nnina okulima okutuusa lwe nasalawo okulima enva.																									
+Bino byonna abirimira mu luggya lwe era nga bye bimufudde ky‚Äôali.																									
+Nafuna omulimu ku ffaamu y‚Äôomugagga nga nze ngikulira.																									
+Bwe nali nkola emirimu gino nalina ekirooto eky‚Äôokukola emirimu egyange naddala okulima.																									
+Nakola¬†okunoonyereza kungi ku kirime kye nali nnina okulima okutuusa lwe nasalawo okulima enva.																									
 Kati amaanyi nsinze kugateeka ku kaamulali																									
-Kuno kwe nagula ensigo níeddagala níebikozesebwa ebirala.																									
+Kuno kwe nagula ensigo n‚Äôeddagala n‚Äôebikozesebwa ebirala.																									
 Omulimi yenna ayagala okufuna amakungula amalungi alina okulowooza ku kulimira awantu awabikke mu kiyumba.																									
-Ssinga oba olima mu nnima eno ate ngíolina níobukugu obwetaagisa.																									
-Osobola okufuna amakungula agasingira ddala ge wandifunye ngíolimira bweru.																									
+Ssinga oba olima mu nnima eno ate ng‚Äôolina n‚Äôobukugu obwetaagisa.																									
+Osobola okufuna amakungula agasingira ddala ge wandifunye ng‚Äôolimira bweru.																									
 Ensonga lwaki kaamulali asaana okulimirira awabikke.																									
 Kino kiyamba kaamulali okukula obulungi ate mu bwangu.																									
-Mu ngeri yíemu ssinga oba omulimidde mu kiyumba.																									
+Mu ngeri y‚Äôemu ssinga oba omulimidde mu kiyumba.																									
 Kaamulali aba muyonjo nga ne ku katale osobola okweramula.																									
 Ekirungi ekirala ekiri mu kulimira awabikke kiri nti ebiwuka tebimala galumba nnimiro.																									
 Nsoka kupima bugimu bwa ttaka.																									
 "Nga sinnaba kuteeka ttaka mu buveera bwe nsimbamu kaamulali wange,"																									
 Nsooka kukebera ttaka ne mmanya obugimu bwalyo.																									
-Nnyongeramu evvu níolusennyente mu ttaka ne binnyamba okutta obuwuka.																									
-Nteekamu ne kalimbwe wíenkoko níobusa okusobola okwongeramu ku bugimu okufuna kaamulali omulungi.																									
+Nnyongeramu evvu n‚Äôolusennyente mu ttaka ne binnyamba okutta obuwuka.																									
+Nteekamu ne kalimbwe w‚Äôenkoko n‚Äôobusa okusobola okwongeramu ku bugimu okufuna kaamulali omulungi.																									
 Bwe mmala okutabula ettaka nditeeka mu kyuma ekirifumba okumala eddakiika assatu.																									
 Ekiyumba kyange kiri ku bugazi bwa ffuuti taano mu buwanvu ate mu bukiika ffuuti munana.																									
 Muno nteekamu ebikolo bya kaamulali bisatu mu ataano.																									
 Ssinga omulabirira bulungi ekikolo kimu kikuwa kkiro taano omwaka.																									
-Nnina níebirime ebirala nga byonna bwe ngatta ssente ze nfunamu mba nfunira ddala ssente.																									
+Nnina n‚Äôebirime ebirala nga byonna bwe ngatta ssente ze nfunamu mba nfunira ddala ssente.																									
 Buli kye nkola kyonna ku ssamba nkiwandiika.																									
-Ebikozesebwa mu nnimiro ebyíebiccupuli ne weesanga ngíoguze ensigo ezitamera.																									
+Ebikozesebwa mu nnimiro eby‚Äôebiccupuli ne weesanga ng‚Äôoguze ensigo ezitamera.																									
 Yali mulunzi wa nkoko okutuusa lwe yazuula ekyama mu nte z'amata z'alundira mu kiyumba.																									
 Okulunda ente akumazeemu emyaka kuumi n'biri.																									
 Era agamba nti ku ffaamu alinako ente nkaaga nga zonna za mata.																									
@@ -5577,9 +5577,9 @@ Amazzi ge tukozesa tugalembeka okuva ku nnyumba ne gakuhhaanira mu ttanka ey'omu
 Okubunyisa enjiri y'okulunda ente mu buli maka.																									
 Okugula ekyuma ekisalaasala omuddo.																									
 Nafunye olukusabokutendeka abalunzi nga mbakwasa satifikeeti.																									
-Abaasooka essira baalissa nnyo ku kulima ebirime eby'ettunzi †ebisobola okutundibwa ebweru w'eggwanga nga emmwaanyi.																									
+Abaasooka essira baalissa nnyo ku kulima ebirime eby'ettunzi ¬†ebisobola okutundibwa ebweru w'eggwanga nga emmwaanyi.																									
 Bannayuganda baalimanga emmere gye balya n'okulunda ebisolo byabwe.																									
-Ebibiina by'obwegassi† byali bya maanyi ebyayambanga okugula ebirime by'abantu ku bbeeyi ennungi ne bakulaakulana.																									
+Ebibiina by'obwegassi¬† byali bya maanyi ebyayambanga okugula ebirime by'abantu ku bbeeyi ennungi ne bakulaakulana.																									
 Abazungu abajja okutufuga baaleeta ebirime eby'ettunzi okwali emmwaanyi.																									
 Bwe twamalanga okunoga ppamba nga tumusunsula okuggyamu ffiifi.																									
 Ng'emiti egisigala tugyokya okulaba nti ppamba ali ku mutindo.																									
@@ -5591,7 +5591,7 @@ Tuddeyo ku nkola eyo buli maka gabeeko ekintu eky'ettunzi kye galima.
 Buddu yali emanyiddwa mu kulima emmwaanyi ne ppamba.																									
 Abavubuka bateekebwemu omutindo ate babaagazise okulima kubanga ebyenfuna byaffe okusinga byazimbibwa ku bulimi.																									
 Eby'okulima birinnyisibwe omutindo.																									
-Ebyobulimi bisuuliddwa† bangi batunda ebibanja byabwe ne bajja mu bibuga okuyingira ebyobufuzi.																									
+Ebyobulimi bisuuliddwa¬† bangi batunda ebibanja byabwe ne bajja mu bibuga okuyingira ebyobufuzi.																									
 "Nnima emmwaanyi yiika bbiri, kasooli yiika emu n'ekitundu, entangawuuzi yiika emu buli sizoni."																									
 Buli kitooke fuba okulaba nga kisigaza endu bbiri ogatta maama waazo ebitooke bisatu kikolo.																									
 Era e butambala nsomesa abavubuka ebyobulimi basobole okubaako kye beekolera okufuna ssente.																									
@@ -5616,47 +5616,47 @@ Ensujju zaawukana okusinziira ku ndabika waliwo ekikuta ekikaluba.
 Nkozesa ebigimusa bya nnakavundira okulwanyisa endwadde mu birime.																									
 Zigenda kuyamba okutumbula eby'okulima omuceere.																									
 Alina enteekateeka okufuula ffaamu ye ekyobulambuzi																									
-Ennaanansi yazitabiikiriza níebitooke																									
-Okuyonja byíolunda nga kw'oteeka níokutuukiriza obuvunaanyizibwa obwíokulabirira byíolunda.																									
+Ennaanansi yazitabiikiriza n‚Äôebitooke																									
+Okuyonja by‚Äôolunda nga kw'oteeka n‚Äôokutuukiriza obuvunaanyizibwa obw‚Äôokulabirira by‚Äôolunda.																									
 "Nagula omuddo omulala omuli calliandra, molinga, mukonzikonzi nga guno guliibwa embuzi n'ente."																									
 Agamba nti ennimiro erumbibwa obusaanyi obulya ebikoola n'ebibala.																									
 "Kati nima ebijanjaalo ebiranda, entula, bbiringannya."																									
-Nfuna omusawo omukugu n'agema endwadde eziyinza okulumba embizzi mpozzi níokumwebuuzaako ebintu eby'enjawulo ebikwatagana níobulunzi.																									
-Alina wooteeri ezíenjawulo ezimusaba ennyama yíobumyu mu bungi ddala.																									
+Nfuna omusawo omukugu n'agema endwadde eziyinza okulumba embizzi mpozzi n‚Äôokumwebuuzaako ebintu eby'enjawulo ebikwatagana n‚Äôobulunzi.																									
+Alina wooteeri ez‚Äôenjawulo ezimusaba ennyama y‚Äôobumyu mu bungi ddala.																									
 Asuubizza okwongera okusomesa abalunzi mu kitundu kye ngeri y'okulunda ey'omutindo.																									
 Abasuubuzi ababeera bazze okugula embizzi okuva mu bitundu eby'enjawulo batuseera.																									
-Mu beedi ennyaanya emalamu ennaku kuumi olwo níogisimbuliza.																									
-Nakomawo ku ffaamu yange ne nsalawo okutandika pulojekiti yíobumyu																									
+Mu beedi ennyaanya emalamu ennaku kuumi olwo n‚Äôogisimbuliza.																									
+Nakomawo ku ffaamu yange ne nsalawo okutandika pulojekiti y‚Äôobumyu																									
 Embizzi essatu zaazaala nga kati ntunda ebyana ku mitwalo																									
 Nnima ebirime eby'enjawulo abavubuka bye balima era nazuula nti muwogo twali tumulima nkola enkadde.																									
 Oluvannyuma okulunda natandika okulima kubanga obulimi obulunzi bitambulira wamu.																									
-Alina dulaaya zakozesa okukaza ebintu ebyíenjawulo ku ffaamu nga amaliba gíobumyu																									
+Alina dulaaya zakozesa okukaza ebintu eby‚Äôenjawulo ku ffaamu nga amaliba g‚Äôobumyu																									
 Wennundira omuddo gugenze gukendeera gwe tuliisa ebisolo.																									
 Naye ate ntunda omuddo omukalu era ebika byonna bye nkola mbikaza.																									
 Buli mwaka osaanye okuteekamu ebigimusa oyinza okukozesa obusa oba nnakavundira.																									
 Kasooli n'olusuku bino abirimira walako n'awaka.																									
 Mu musiri temamu emikutu egitambuza amazzi okwewala amazzi okulegama																									
-Nali njagala okulima ovakkedo wa Hass oluvannyuma lwíokusisinkana amulima nga tugenze e Mecca.																									
-Buli kiyingira níokufuluma ku ffaamu kirina okugenda mu kitabo okusobola okumanya ennyingiza níenfulumya																									
-Abantu bonna nabawa omukisa bafune amagezi ku ngeri entuufu obumyu gye bulundibwamu níokubufunamu ssente																									
+Nali njagala okulima ovakkedo wa Hass oluvannyuma lw‚Äôokusisinkana amulima nga tugenze e Mecca.																									
+Buli kiyingira n‚Äôokufuluma ku ffaamu kirina okugenda mu kitabo okusobola okumanya ennyingiza n‚Äôenfulumya																									
+Abantu bonna nabawa omukisa bafune amagezi ku ngeri entuufu obumyu gye bulundibwamu n‚Äôokubufunamu ssente																									
 Okulunda enkoko nakiggya ku mukwano gwange gwe nnalaba nga zimukoledde bulungi.																									
 Singa ettaka oba olirabiridde bulungi era nga olitaddemu ekigimusa																									
 Obumyu osobola okusanga nga bwonna bufudde ssinga bufuna ekiziyiro ne butafuna mpewo emala																									
 Obumyu bulimu obugagga abantu bwe batannazuula																									
 Ensigo z'ensujju nnyangu nnyo okufuna.																									
-AmayuniI emu ku mmere eyettanirwa abangi olwíemigaso gyíerina eri omubiri kyokka ate ngíekola ssente eri omulimi																									
+AmayuniI emu ku mmere eyettanirwa abangi olw‚Äôemigaso gy‚Äôerina eri omubiri kyokka ate ng‚Äôekola ssente eri omulimi																									
 "Ekirungi ku mayuuni, tegoonoona ttaka kuba lisigala nga bwe libadde."																									
-Yandagirira omulunzi wíobumyu omulala e Mukono eyannyongera amagezi ku nnunda yíobumyu eyíomulembe																									
-Omukugu mu kulima enva endiirwa ate níokulimira awafunda†agamba nti bwíosimba enva endiirwa zisobola okukula amangu.																									
-Osobola okukungula ddoodo ebbuga níejjobyo mu nnaku abbiri zokka																									
-Omusulo gwíobumyu gukola ekigimusa ekirungi n'emmere yíempeke ekoleddwa ìPelletsî esigalidde mu kiyumba kyíobumyu.																									
+Yandagirira omulunzi w‚Äôobumyu omulala e Mukono eyannyongera amagezi ku nnunda y‚Äôobumyu ey‚Äôomulembe																									
+Omukugu mu kulima enva endiirwa ate n‚Äôokulimira awafunda¬†agamba nti bw‚Äôosimba enva endiirwa zisobola okukula amangu.																									
+Osobola okukungula ddoodo ebbuga n‚Äôejjobyo mu nnaku abbiri zokka																									
+Omusulo gw‚Äôobumyu gukola ekigimusa ekirungi n'emmere y‚Äôempeke ekoleddwa ‚ÄúPellets‚Äù esigalidde mu kiyumba ky‚Äôobumyu.																									
 Nakyalirako bannange abaali balunda embizzi ne neegomba okuzirunda ate ng'emmere gye baziriisa baginona wange.																									
-Emmere yíempeke endala agiguza abalunzi bíobumyu mu ggwanga																									
-Omukugu ono yampa amagezi ku ndabirira ennungi eyíobumyu ne nganyulwamu.																									
-Kalimbwe níobusa bwíembuzi nabyo abikozesa okugimusa ettaka																									
-Natandika níembizzi ssatu kati ntunda níebyana okwongera ku nfuna yange.																									
+Emmere y‚Äôempeke endala agiguza abalunzi b‚Äôobumyu mu ggwanga																									
+Omukugu ono yampa amagezi ku ndabirira ennungi ey‚Äôobumyu ne nganyulwamu.																									
+Kalimbwe n‚Äôobusa bw‚Äôembuzi nabyo abikozesa okugimusa ettaka																									
+Natandika n‚Äôembizzi ssatu kati ntunda n‚Äôebyana okwongera ku nfuna yange.																									
 Ennimiro yonna ewedde okusimba era nga okubikka kuwedde buli makya tukeera okufukirira ennimiro.																									
-Singa osimba akasigo kasobola níokutwala omwezi nga tekannamera																									
+Singa osimba akasigo kasobola n‚Äôokutwala omwezi nga tekannamera																									
 Agamba nti ekimu ku bye bakoze kwe kufulumya kasooli akula amangu																									
 Kasooli osobola okumufunamu amagu gamba singa omutunda mubisi eri abookya oba abamufumba																									
 Uganda emu nsi ezisinga okulima muwogo kyokka efiirwa obukadde bwa ddoola.																									
@@ -5664,7 +5664,7 @@ Ebirime ebigenda okukuwa ssente z'amangu otandike omwaka ng'oseka
 Abafunye mu kulunda Embizzi bakuwabula.																									
 Alina emiyembe n'obutunda																									
 Ffe tuviiriddeyo okulaba nga tuyamba bannayuganda okulima ebimera ebipya ebiteetaaga bigimusa.																									
-Nali nnaakaleeta omukugu mu nnunda yíobumyu okuva e Kenya nga waakumala ennaku bbiri.																									
+Nali nnaakaleeta omukugu mu nnunda y‚Äôobumyu okuva e Kenya nga waakumala ennaku bbiri.																									
 "Tulina embizzi enkulu nga ziri mawako nga zino tuziwa emmere ku makya, akawungeezi."																									
 Okulima amayuuni kulimu ssente																									
 Yagambe nti obusa obuva mu biyumba by'embizzi tabuyiwa wabula abuyiwa mu lusuku okwongera obugimu.																									
@@ -5673,54 +5673,54 @@ Obulwadde obusinga okukosa emicungwa businga kutambuzibwa obuwuka obutono obuyit
 Agamba nti buli muntu asobola okulunda obumyu kubanga bwangu okulabirira ate buzaala mu bungi omulundi gumu.																									
 Kino kyansoomooza okutandika obulunzi.																									
 Akatale nkafuna ku basuubuzi abayita mu kitundu abansuubulako embizzi ne bazongerayo mu bitundu ebirala.																									
-Ggwe ayagala ensigo zíenva endiirwa zino zimere mangu osobola okuzinnyika mu mazzi olunaku lumu																									
+Ggwe ayagala ensigo z‚Äôenva endiirwa zino zimere mangu osobola okuzinnyika mu mazzi olunaku lumu																									
 Okulima emmere gye ndiisa embizzi ne ngula kitono kinnyamba okukekkereza																									
 Omuddo okugulima olina okuba n'ebigimusa kubanga gwetaaga okuliikiriza okusobola okukula amangu.																									
-Natandika níembizzi satu ez'emyezi ebiri.																									
+Natandika n‚Äôembizzi satu ez'emyezi ebiri.																									
 Enva endiirwa zikula mangu ate akatale kaazo tekeetaaga kunoonya kubanga abantu bangi abazeetaaga.																									
 Oba osimba nnimiro leka amabanga ffuuti ssatu ssatu okuva ku kikolo ekimu okutuuka kirala.																									
-Ku ffaamu yazimbako ekyuma kyíakozesa okukola emmere yíobumyu eyíempeke eyitibwa ìpelletsî																									
-Ennyaanya kimu ku birime ebirinnya beeyi naddala mu biseera byíomusana																									
+Ku ffaamu yazimbako ekyuma ky‚Äôakozesa okukola emmere y‚Äôobumyu ey‚Äôempeke eyitibwa ‚Äúpellets‚Äù																									
+Ennyaanya kimu ku birime ebirinnya beeyi naddala mu biseera by‚Äôomusana																									
 Buli omuntu yeetaaga okulya enva endiirwa buli lunaku.																									
 Kino kiziyambako okufuna obunyogovu obumala okuva mu ttaka era ne zimera mangu																									
-Agamba nti ennyama yíakamyu bangi abagyagala okugirya																									
+Agamba nti ennyama y‚Äôakamyu bangi abagyagala okugirya																									
 Amayuuni gakulira mu myezi mukaaga.																									
 kyandibadde kirungi okugalimira okuliraana olutobazzi era nga ettaka liyiikayiika																									
 Muno ntemamu amatooke buli luvannyuma lwa wiiki bbiri.																									
 Ku kulunda embizzi agattako okulima emmere okuli muwogo.																									
 Omusulo tugufukirira ku birime nga gutuyambako okugimusa ettaka																									
-†Obutungulu obwíebikoola nabwo butwala ebbanga lya nnaku asatu níotandika okubinogako.																									
+¬†Obutungulu obw‚Äôebikoola nabwo butwala ebbanga lya nnaku asatu n‚Äôotandika okubinogako.																									
 Kuno ngattako okugemesa embizzi ne kiziyamba obutakonziba ne zivaamu nga nnene bulungi																									
-Ekigjimusa kya nnakavundira kisobola okusikiriza ekiwuka ekigenda okuyingira amayuuni go gatandike okuvunda níokuwutta.																									
+Ekigjimusa kya nnakavundira kisobola okusikiriza ekiwuka ekigenda okuyingira amayuuni go gatandike okuvunda n‚Äôokuwutta.																									
 Okwewala omusana okwokya ennyo ebitooke byange nasimba emiti emiwanvu ddala ku nsalosalo z'olusukku lwange.																									
 Ekisookera ddala mu kulwanyisa endwadde mu mbizzi kwe kubeera omuyonjo ng'ozirunda.																									
-Emmere yíobuweke gyíakolera obumyu bwe.																									
+Emmere y‚Äôobuweke gy‚Äôakolera obumyu bwe.																									
 Osobola okutandika okulima enva endiirwa no'funa ssente mu bbanga eritasukka myezi ebiri.																									
-Yasima ekidiba kyíamazzi omunywera ente																									
-Era ggwe ayagala okukola ssente osobola okufuna ssente okuyita mu kulima emmere eno níoyoola ssente mu bbanga ettono																									
-Yakola Biogas okuva mu bubi bwíobumyu gwíakozesa okufumba ku ffaamu																									
+Yasima ekidiba ky‚Äôamazzi omunywera ente																									
+Era ggwe ayagala okukola ssente osobola okufuna ssente okuyita mu kulima emmere eno n‚Äôoyoola ssente mu bbanga ettono																									
+Yakola Biogas okuva mu bubi bw‚Äôobumyu gw‚Äôakozesa okufumba ku ffaamu																									
 Natema emiti okuva ku ffaamu yange endala gye nakozesa okuzimba ekiyumba ky'obumyu.																									
 "Bagenda kusomesa abalimi ennima ya ovakedo, enkungula n'engeri okufunamu ssente."																									
 Obumyu bulimu zzaabu abalunzi ba wano gwe batannavumbula																									
 Nakati owaffe omuganda akungulwa omulundi gumu kubanga ye okuula mukuule.																									
-Buli gwíogamba okulunda obumyu asooka kukubuuza gye wali olabye omudaala kwe batunda ennyama yíakamyu.																									
+Buli gw‚Äôogamba okulunda obumyu asooka kukubuuza gye wali olabye omudaala kwe batunda ennyama y‚Äôakamyu.																									
 Bangi mwasanyukira engeri gye tukamulamu ebirime byammwe nga tugattako omutindo okugeza okukamula omujaaja.																									
 Embizzi enkulu nga ngirunze bulungi mbeera nsobola okugituda wakati wa ssente																									
 Mu biseera bino okulunda embizzi kati kye kimu ku bintu bye neenyumiririzaamu.																									
 Nasalawo okutandika okulima kamulaali era natandika n'ekika kya hot pepper.																									
 Emmere gye tugula mu maduuka bagiseera ate ng'embizzi zibeera zigyetaaga okukula obulungi																									
 Gwe ayagala okusimba nakati olina okumanya nti ojja kuguminkiriza emyezi ebiri gyokka okukungula																									
-Agamba nti buli mwezi ategeka emisomo egikwata ku nnunda yíobumyu																									
+Agamba nti buli mwezi ategeka emisomo egikwata ku nnunda y‚Äôobumyu																									
 Njagala okwongera ku bugazi bw'ekifo we nnundira embizzi nga kw'otadde obungi bwazo.																									
-Mulunzi wa mbizzi era yateeka ebiyumba ebiwerako awaka mwíalundira embizzi ze mu bungi.																									
-Omulimu gwíobulunzi gufunira ddala ng'ofuddeyo okunoonyereza																									
+Mulunzi wa mbizzi era yateeka ebiyumba ebiwerako awaka mw‚Äôalundira embizzi ze mu bungi.																									
+Omulimu gw‚Äôobulunzi gufunira ddala ng'ofuddeyo okunoonyereza																									
 Okulima kwetaagisa okugattako okulunda kyokka bangi balemererwa okukuuma obuyonjo.																									
 Ku myezi mukaaga otandika okukungula.																									
 Tuluubirira okufuna akamyu akazitowa kkiro nnya ku taano																									
 Nnima kasooli yiika emu n'ekitundu buli sizoni era nsobola okukungulamu ensawo omusobyo omukongole.																									
 Akozesa eddagala okukifuuyira naye eddagala liringa eritakola.																									
-Agamba nti kaamulali kirime ekivaamu ssente zíamangu eziwera ate mu bwangu.																									
-Ggwe anoonya ekirime kyíosobola okulima osobole okukyuusa obulamu																									
+Agamba nti kaamulali kirime ekivaamu ssente z‚Äôamangu eziwera ate mu bwangu.																									
+Ggwe anoonya ekirime ky‚Äôosobola okulima osobole okukyuusa obulamu																									
 Okulima kaamulali bizinensi egenda okukukolera.																									
 Omulimi by'olina okukola okufuna mu binyeebwa																									
 Mu Uganda mulimu ebika by'ebinyeebwa ebisukka mu abiri																									
